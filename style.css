@@ -48,5 +48,16 @@ body{
 }
 
 .button.orange{
-    
+    background-color: #f39c12;
+    color: #fff;
+}
+
+.button.light-gray{
+    background-color: #d3d3d3;
+    color: #000;
+}
+
+.button-wide{
+    grid-column: span 2;
+    border-radius: 50px;
 }
